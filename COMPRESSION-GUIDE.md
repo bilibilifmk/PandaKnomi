@@ -51,46 +51,46 @@ Keeping GIFs optimized ensures smooth performance, better visuals, and compatibi
    - **Trim** the start and end points to keep only the essential animation
    - Click **Convert to GIF!**
 
-     ![alt text](./resources/convert-to-gif.png)
+     ![Convert to GIF button location](./resources/convert-to-gif.png)
 
 2. **Resize to 240×240**
 
    - Click **resize** on the result page
 
-     ![alt text](./resources/resize.png)
+     ![Resize tool screenshot](./resources/resize.png)
 
    - Set dimensions to **240 × 240 pixels**
    - Click **Resize Video!**
 
-     ![alt text](./resources/resize-result.png)
+     ![Resize result preview](./resources/resize-result.png)
 
 3. **Convert with settings**
 
    - Open the **convert** dropdown and select **to GIF**
 
-     ![alt text](./resources/convert-settings.png)
+     ![GIF conversion settings panel](./resources/convert-settings.png)
 
    - Set start/stop times, frame rate (10-15 fps recommended)
    - Click **Convert to GIF!**
 
-     ![alt text](./resources/convert-preview.png)
+     ![GIF conversion preview](./resources/convert-preview.png)
 
 4. **Optimize compression**
 
    - Click the **optimize** button on the resulting GIF
 
-     ![alt text](./resources/optimize-open.png)
+     ![Optimize button location](./resources/optimize-open.png)
 
    - Adjust compression settings (colors: 64-128, lossy: 20-60)
    - Click **Optimize GIF**
 
-     ![alt text](./resources/optimize-settings.png)
+     ![Optimization settings panel](./resources/optimize-settings.png)
 
 5. **Download**
 
    - Click **Save** to download your optimized GIF
 
-     ![alt text](./resources/save-download.png)
+     ![Save/download button location](./resources/save-download.png)
 
 ### Optimize an existing GIF
 
